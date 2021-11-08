@@ -1,3 +1,0 @@
-Nombre de base de datos utilizada: peluqueriacanina
-Usuario: esc
-Contraseña: 12345
